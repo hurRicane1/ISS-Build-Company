@@ -1,0 +1,43 @@
+c:\users\pelek\documents\visual studio 2015\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\pelek\documents\visual studio 2015\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\pelek\documents\visual studio 2015\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\pelek\Documents\Visual Studio 2015\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.fMain.resources
+C:\Users\pelek\Documents\Visual Studio 2015\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Search.resources
+C:\Users\pelek\Documents\Visual Studio 2015\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Apps.resources
+C:\Users\pelek\Documents\Visual Studio 2015\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Houses.resources
+C:\Users\pelek\Documents\Visual Studio 2015\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.About.resources
+C:\Users\pelek\Documents\Visual Studio 2015\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Settings.resources
+C:\Users\pelek\Documents\Visual Studio 2015\Projects\Apps'n'Houses\WindowsFormsApplication1\bin\Debug\ISS Build Company.exe.config
+C:\Users\pelek\Documents\Visual Studio 2015\Projects\Apps'n'Houses\WindowsFormsApplication1\bin\Debug\ISS Build Company.exe
+C:\Users\pelek\Documents\Visual Studio 2015\Projects\Apps'n'Houses\WindowsFormsApplication1\bin\Debug\ISS Build Company.pdb
+C:\Users\pelek\Documents\Visual Studio 2015\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\ISS Build Company.exe
+C:\Users\pelek\Documents\Visual Studio 2015\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\ISS Build Company.pdb
+C:\Users\pelek\Documents\Visual Studio 2015\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Clients.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\bin\Debug\ISS Build Company.exe.config
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\ISS Build Company.exe
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\ISS Build Company.pdb
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\bin\Debug\ISS Build Company.exe
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\bin\Debug\ISS Build Company.pdb
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.About.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Apps.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Clients.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.fMain.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Houses.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\bin\Debug\BuildCompanyDB.accdb
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Sale.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ClientAdd.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ClientDelete.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddApp.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DeleteApp.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddHouse.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DeleteHouse.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ComArea.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Payments.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Types.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Footer.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Parking.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LOGIN.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddContract.resources

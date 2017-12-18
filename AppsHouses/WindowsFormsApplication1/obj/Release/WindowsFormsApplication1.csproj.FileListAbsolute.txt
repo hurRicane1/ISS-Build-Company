@@ -1,0 +1,27 @@
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\bin\Release\ISS Build Company.exe.config
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.About.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Apps.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Clients.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.fMain.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Houses.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.ClientAdd.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Sale.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.ClientDelete.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\bin\Release\BuildCompanyDB.accdb
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\bin\Release\ISS Build Company.exe
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\bin\Release\ISS Build Company.pdb
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Release\ISS Build Company.exe
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Release\ISS Build Company.pdb
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.AddContract.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Footer.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.LOGIN.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Parking.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Types.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.ComArea.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.DeleteHouse.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.AddHouse.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.DeleteApp.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.AddApp.resources
+D:\Source\Projects\Apps'n'Houses\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Payments.resources
